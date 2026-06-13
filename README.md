@@ -17,10 +17,10 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 
 | Trận đấu | Tên bài toán | Độ phức tạp | Trạng thái | Mã nguồn |
 |---|---|---|---|---|
-| VNOI Cup 2026 - R1 | Problem A | $O(1)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r1_A.cpp) |
-| VNOI Cup 2026 - R1 | Problem B | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r1_B.cpp) |
-| VNOI Cup 2026 - R1 | Problem C | $O(n)$ | 🟨 RTE | [Xem Code](./vnoi_cup2026_r1_C.cpp) |
-| VNOI Cup 2026 - R2 | Problem D | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r2_D.cpp) |
+| VNOI Cup 2026 - R1 | Problem A | $O(1)$ | 🟩 Accepted | [Xem Code](./vnoi%20_cup2026_r1_A.cpp) |
+| VNOI Cup 2026 - R1 | Problem B | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r1_B.cpp) |
+| VNOI Cup 2026 - R1 | Problem C | $O(n)$ | 🟨 RTE | [Xem Code](./vnoi_cup_2026_r1_C.cpp) |
+| VNOI Cup 2026 - R2 | Problem D | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_D.cpp) |
 
 ---
 
