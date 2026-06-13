@@ -27,18 +27,18 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 ---
 
 ### 🔹 VNOI Cup 2026 - Round 2 - rank 37 
-> 🔗 [📋 Đề bài Round 2](https://vnoi.info) | [📊 Bảng xếp hạng Round 2](https://vnoi.info) *(Dán link thật vào đây)*
+> 🔗 [📋 Đề bài Round 2](https://oj.vnoi.info/contest/vnoicup26_r2) | [📊 Bảng xếp hạng Round 2](https://oj.vnoi.info/contest/vnoicup26_r2/ranking/) 
 
 | Tên bài toán | Độ phức tạp | Trạng thái | Mã nguồn |
 |---|---|---|---|
-| Problem A | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r2_A.cpp) |
-| Problem B | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r2_B.cpp) |
-| Problem C | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r2_C.cpp) |
-| Problem G | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup2026_r2_G.cpp) |
+| Problem A | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_A.cpp) |
+| Problem B | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_B.cpp) |
+| Problem C | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_C.cpp) |
+| Problem G | $O(n+q(val))$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_G.cpp) |
 
 ---
 
 ## 🎯 Mục tiêu ôn luyện
-- [ ] Có thể gà nhưng mà sẽ cố gắng trong tương lai.
+- [ ] Có thể gà nhưng mà sẽ cố gắng trong tương lai và sẽ cố vào final
 
 *Mọi người có thể tham khảo cách cài đặt chi tiết của mình ở các file tương ứng phía trên nhé! Chúc các bạn vui vẻ hehe!* 😉
