@@ -39,7 +39,6 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 ---
 ##
 ## 🎯 Mục tiêu ôn luyện
-- [ ] Mình đã tự học trong 3 tháng 
 - [ ] Có thể gà nhưng mà sẽ cố gắng trong tương lai và sẽ cố vào final
 
 *Mọi người có thể tham khảo cách cài đặt chi tiết của mình ở các file tương ứng phía trên nhé! Chúc các bạn vui vẻ hehe!* 😉
