@@ -1,4 +1,4 @@
-# 🏆 Competitive Programming quá trình ôn luyện :))
+# 🏆 Competitive Programming :))
 
 Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập trình thi đấu (CP)** của mình. Đây là nơi mình lưu trữ toàn bộ lời giải cho các bài toán thuật toán từ các nền tảng như VNOI, Codeforces, LeetCode,... nhằm rèn luyện tư duy logic và tối ưu hiệu năng code.
 
