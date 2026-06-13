@@ -37,7 +37,7 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 | Problem G | $O(n+q(val))$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r2_G.cpp) |
 
 ---
-
+##
 ## 🎯 Mục tiêu ôn luyện
 - [ ] Có thể gà nhưng mà sẽ cố gắng trong tương lai và sẽ cố vào final
 
