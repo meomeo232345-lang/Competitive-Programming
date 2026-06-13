@@ -2,7 +2,7 @@
 
 Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập trình thi đấu (CP)** của mình. Đây là nơi mình lưu trữ toàn bộ lời giải cho các bài toán thuật toán từ các nền tảng như VNOI, Codeforces, LeetCode,... nhằm rèn luyện tư duy logic và tối ưu hiệu năng code.
 
-*Tạm thời mình đã chinh phục thành công 3.5 bài round 1, 4 bài round và câu G (trọn vẹn) trong trận đấu VNOI Cup qua các Round!* 🚀
+*Tạm thời mình đã chinh phục thành công 3.5 bài round 1, 4 bài round 2 và câu G (trọn vẹn) trong trận đấu VNOI Cup qua các Round!* 🚀
 
 ---
 
@@ -39,6 +39,7 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 ---
 ##
 ## 🎯 Mục tiêu ôn luyện
+- [ ] Mình đã tự học trong 3 tháng 
 - [ ] Có thể gà nhưng mà sẽ cố gắng trong tương lai và sẽ cố vào final
 
 *Mọi người có thể tham khảo cách cài đặt chi tiết của mình ở các file tương ứng phía trên nhé! Chúc các bạn vui vẻ hehe!* 😉
