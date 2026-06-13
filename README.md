@@ -13,9 +13,9 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 
 ---
 
-## 📈 Danh sách bài giải VNOI Cup - upn138825 - rank 110
+## 📈 Danh sách bài giải VNOI Cup 2026 vòng loại 
 
-### 🔹 VNOI Cup 2026 - Round 1 
+### 🔹 VNOI Cup 2026 - Round 1 - upn138825 - rank 110
 > 🔗 [📋 Đề bài Round 1](https://oj.vnoi.info/contest/vnoicup26_r1) | [📊 Bảng xếp hạng Round 1](https://oj.vnoi.info/contest/vnoicup26_r1/ranking/)
 
 | Tên bài toán | Độ phức tạp | Trạng thái | Mã nguồn |
@@ -26,7 +26,7 @@ Chào mừng bạn đến với kho lưu trữ mã nguồn ôn luyện **Lập t
 | Problem D | $O(n)$ | 🟩 Accepted | [Xem Code](./vnoi_cup_2026_r1_D.cpp) |
 ---
 
-### 🔹 VNOI Cup 2026 - Round 2 - rank 37 
+### 🔹 VNOI Cup 2026 - Round 2 - upn138825  - rank 37 
 > 🔗 [📋 Đề bài Round 2](https://oj.vnoi.info/contest/vnoicup26_r2) | [📊 Bảng xếp hạng Round 2](https://oj.vnoi.info/contest/vnoicup26_r2/ranking/) 
 
 | Tên bài toán | Độ phức tạp | Trạng thái | Mã nguồn |
